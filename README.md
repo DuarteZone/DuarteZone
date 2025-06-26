@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DuarteZone/assets/main/banner-gradient.png" width="100%" />
+  <img src="https://www.deviantart.com/arsen2005/art/Coding-Programming-Wallpaper-1-939622445" width="100%" />
 </p>
 # 👋 Hi, I'm Jonathan Coronel Duarte (@DuarteZone)
 
