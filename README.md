@@ -27,9 +27,13 @@ Full Stack Developer con más de 7 años de experiencia. Me apasiona crear soluc
 
 ## 📫 Contacto
 
-- Email: jocduarte7@gmail.com
+- Email: duartezone.dev@gmail.com
 - GitHub: [@DuarteZone](https://github.com/DuarteZone)
-- LinkedIn: https://www.linkedin.com/in/jocduarte7
+- LinkedIn: *(Agrega aquí tu URL si quieres que aparezca)*
 
 ---
 
+<!---
+DuarteZone/DuarteZone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
