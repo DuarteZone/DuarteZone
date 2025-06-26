@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DuarteZone/assets/main/banner-gradient.png" width="100%" />
+</p>
 # 👋 Hi, I'm Jonathan Coronel Duarte (@DuarteZone)
 
 Full Stack Developer con más de 7 años de experiencia. Me apasiona crear soluciones tecnológicas escalables, limpias y bien pensadas, tanto en frontend como en backend. 🚀
@@ -40,6 +43,8 @@ Full Stack Developer con más de 7 años de experiencia. Me apasiona crear soluc
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Available%20for%20Hire-0F9D58?style=for-the-badge&logo=Handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </p>
 
 
