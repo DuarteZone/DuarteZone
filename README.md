@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header.jpg" alt="Coding Banner" width="100%" />
-</p>
+
 # 👋 Hi, I'm Jonathan Coronel Duarte (@DuarteZone)
 
 Full Stack Developer con más de 7 años de experiencia. Me apasiona crear soluciones tecnológicas escalables, limpias y bien pensadas, tanto en frontend como en backend. 🚀
@@ -30,7 +28,7 @@ Full Stack Developer con más de 7 años de experiencia. Me apasiona crear soluc
 
 ## 📫 Contacto
 
-- Email: duartezone.dev@gmail.com
+- Email: jocduarte7@gmail.com
 - GitHub: [@DuarteZone](https://github.com/DuarteZone)
 - LinkedIn: https://www.linkedin.com/in/jocduarte7/
 
