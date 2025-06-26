@@ -29,7 +29,19 @@ Full Stack Developer con más de 7 años de experiencia. Me apasiona crear soluc
 
 - Email: duartezone.dev@gmail.com
 - GitHub: [@DuarteZone](https://github.com/DuarteZone)
-- LinkedIn: *(Agrega aquí tu URL si quieres que aparezca)*
+- LinkedIn: https://www.linkedin.com/in/jocduarte7/
+
+<p align="center">
+ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-0F9D58?style=for-the-badge&logo=Handshake&logoColor=white)
+
+</p>
 
 ---
 
